@@ -10,10 +10,6 @@ But also I am programming in C++ and Go (a little)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-      
-I love projecting complex projects tied with machine learning     
-Have more experience in Computer vision and Time series fields  
-
 <!--
 **svtdanny/svtdanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
